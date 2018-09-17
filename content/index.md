@@ -47,7 +47,7 @@
 ### Registered reports
 * [How do **registered reports** work?](plan/registered-reports.md)
 
-## Open protocol
+### Open methodology
 * [How should I **document** my research process?](share/open-protocol.md)
 
 ----
